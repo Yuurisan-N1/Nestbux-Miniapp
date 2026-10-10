@@ -140,19 +140,12 @@ Nestbuxbot-Miniapp/
     └── json.ex
 ```
 
-`device.json` is created automatically at the first run and is never shipped with the package.
-
----
-
 ## Disclaimer
 
-This project is provided for educational purposes only. Use it at your own risk.
-The authors are not responsible for any account restriction or loss that results from using it.
+This tool is built for educational and technical exploration purposes. Use it wisely and at your own responsibility.
 
 ---
 
 <div align="center">
-
-Made with care by <b>Yuurisandesu</b>
-
+<img width="100%" alt="footer" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer"/>
 </div>
