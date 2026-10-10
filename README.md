@@ -1,19 +1,19 @@
 <div align="center">
 
-<img width="100%" alt="header" src="https://capsule-render.vercel.app/api?type=waving&height=210&text=Nestbuxbot%20Bot&fontAlign=50&fontAlignY=36&fontSize=56&desc=Auto%20Tasks%20%7C%20Reward%20Ads%20%7C%20Bonus%20Spins%20%7C%20Spin%20And%20Win%20%7C%20Multi-Account&descAlign=50&descAlignY=58"/>
+<img width="100%" alt="header" src="https://capsule-render.vercel.app/api?type=waving&height=210&text=Nestbux%20Bot&fontAlign=50&fontAlignY=36&fontSize=56&desc=Auto%20Tasks%20%7C%20Reward%20Ads%20%7C%20Bonus%20Spins%20%7C%20Spin%20And%20Win%20%7C%20Multi-Account&descAlign=50&descAlignY=58"/>
 
 <img alt="typing" src="https://readme-typing-svg.demolab.com?font=Inter&size=18&duration=3000&pause=650&center=true&vCenter=true&width=900&lines=Auto+Complete+Tasks+%7C+Claim+Every+Open+Channel+And+Link;Auto+Reward+Ads+%7C+Collect+Every+Coin+Slot;Auto+Bonus+Spins+%7C+Watch+And+Convert+Into+Wheel+Turns;Auto+Spin+And+Win+%7C+Spend+Every+Available+Spin;Proxy+Support+%7C+Multi-Account"/>
 
 <p>
   <img alt="elixir" src="https://img.shields.io/badge/Elixir-1.14+-4B275F?logo=elixir&logoColor=white"/>
-  <img alt="platform" src="https://img.shields.io/badge/Platform-Nestbuxbot%20Miniapp-111111"/>
+  <img alt="platform" src="https://img.shields.io/badge/Platform-Nestbux%20Miniapp-111111"/>
   <img alt="multi-account" src="https://img.shields.io/badge/Multi--Account-Supported-111111"/>
   <img alt="proxy" src="https://img.shields.io/badge/Proxy-Supported-111111"/>
   <img alt="author" src="https://img.shields.io/badge/by-Yuurisandesu-111111"/>
 </p>
 
 <p>
-  <b>Nestbuxbot Bot</b> is a full automation bot for the Nestbuxbot Telegram Miniapp.<br/>
+  <b>Nestbux Bot</b> is a full automation bot for the Nestbux Telegram Miniapp.<br/>
   It handles the complete daily cycle: channel and partner tasks, reward advertisements, bonus spin advertisements, the Spin and Win wheel, and the account summary, all running automatically across multiple accounts with proxy support and a live countdown between cycles.<br/>
   Built and distributed by <b>Yuurisandesu</b>.
 </p>
@@ -46,8 +46,8 @@
 **Clone the repository:**
 
 ```bash
-git clone https://github.com/Yuurisan-N1/Nestbuxbot-Miniapp.git
-cd Nestbuxbot-Miniapp
+git clone https://github.com/Yuurisan-N1/Nestbux-Miniapp.git
+cd Nestbux-Miniapp
 ```
 
 Nothing to install. HTTP, TLS and JSON ship inside the package.
@@ -127,7 +127,7 @@ Stop the bot by closing the window, or on Linux and macOS with `kill <pid>`.
 ## File Structure
 
 ```
-Nestbuxbot-Miniapp/
+Nestbux-Miniapp/
 ├── bot.exs           # the automation loop
 ├── config.json       # settings
 ├── data.txt          # one initData per line
