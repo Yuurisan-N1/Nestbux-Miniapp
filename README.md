@@ -112,15 +112,15 @@ Stop the bot by closing the window, or on Linux and macOS with `kill <pid>`.
 
 ## Features
 
-- **Auto Tasks** — claims every published task that is still open, including channel joins and partner links, and reports each attempt the moment the server answers.
-- **Auto Reward Ads** — watches the coin advertisement slots and collects the daily allowance until the server reports the limit.
-- **Auto Bonus Spins** — watches the spin advertisement slots and converts each one into a wheel turn.
-- **Auto Spin and Win** — spends every available spin on the wheel and reports the reward of each turn.
-- **Force Join Detection** — detects the required channel gate and reports it clearly instead of failing silently.
-- **Device Identity** — generates a random device fingerprint per account, cached in `device.json`, so every account keeps one stable identity.
-- **Multi Account** — processes any number of accounts sequentially in a single run.
-- **Proxy Support** — round robin proxies by account index, with masked proxy output in the log.
-- **Live Countdown** — every wait is printed in place and erased when it reaches zero.
+- **Auto Tasks** claims every published task that is still open, including channel joins and partner links, and reports each attempt the moment the server answers.
+- **Auto Reward Ads** watches the coin advertisement slots and collects the daily allowance until the server reports the limit.
+- **Auto Bonus Spins** watches the spin advertisement slots and converts each one into a wheel turn.
+- **Auto Spin and Win** spends every available spin on the wheel and reports the reward of each turn.
+- **Force Join Detection** detects the required channel gate and reports it clearly instead of failing silently.
+- **Device Identity** generates a random device fingerprint per account, cached in `device.json`, so every account keeps one stable identity.
+- **Multi Account** processes any number of accounts sequentially in a single run.
+- **Proxy Support** round robin proxies by account index, with masked proxy output in the log.
+- **Live Countdown** every wait is printed in place and erased when it reaches zero.
 
 ---
 
